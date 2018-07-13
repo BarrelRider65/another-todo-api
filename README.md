@@ -1,6 +1,6 @@
 # Another boring TODO API
 
-[![Build Status](https://travis-ci.org/AlbertoFdzM/another-todo-api.svg?branch=master)](https://travis-ci.org/AlbertoFdzM/another-todo-api)
+[![Build Status](https://travis-ci.org/BarrelRider65/another-todo-api.svg?branch=master)](https://travis-ci.org/BarrelRider65/another-todo-api)
 
 You can read how this code was made on the posts:
 
